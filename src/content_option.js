@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "I love coding cool websites",
         second: "I love solving Leetcode problems",
-        third: "I developed cool apps",
+        third: "I develop cool apps",
     },
     description: "I’m Siddhartha Varshney Full stack devloper, currently studing in VIT Vellore",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
